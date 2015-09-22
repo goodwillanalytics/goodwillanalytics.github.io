@@ -1,13 +1,8 @@
-Grayscale Jekyll theme
-=========================
+devAid theme from Xiaoying Riley, adopted to Jekyll
 
-Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
+early stage, pls open issue if you need any updates
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
+[Download](https://github.com/kevit/devaid-jekyll-theme/blob/master/archive.tar.bz2).
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/kevit/devaid-jekyll-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
