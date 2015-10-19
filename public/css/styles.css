@@ -279,6 +279,11 @@ pre code {
   margin-top: 0;
   margin-bottom: 30px;
 }
+.features .intro {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-bottom: 60px;
+}
 .features a {
   color: #074f66;
 }
