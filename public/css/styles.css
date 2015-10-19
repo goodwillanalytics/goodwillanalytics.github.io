@@ -269,7 +269,6 @@ pre code {
 }
 /* ======= Features Section ======= */
 .features {
-  max-width: 800px;
   padding: 80px 0;
   background: #17baef;
   color: #fff;
@@ -333,7 +332,7 @@ pre code {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
 }
-/* ======= License Section ======= */
+/* ======= Section ======= */
 .license {
   padding: 80px 0;
   background: #f5f5f5;
