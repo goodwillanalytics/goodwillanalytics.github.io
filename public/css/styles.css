@@ -269,6 +269,7 @@ pre code {
 }
 /* ======= Features Section ======= */
 .features {
+  max-width: 800px;
   padding: 80px 0;
   background: #17baef;
   color: #fff;
