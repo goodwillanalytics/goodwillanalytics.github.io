@@ -286,7 +286,7 @@ pre code {
 }
 .features .features-inner {
   max-width: 800px;
-  background: #fff;
+  background: #d6f3fc;
   padding: 30px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -297,6 +297,7 @@ pre code {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   margin: 0 auto;
+  color: #074f66;
 }
 .features a {
   color: #074f66;
